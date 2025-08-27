@@ -1,0 +1,6 @@
+s1=("An animal is a living organism that is typically characterized by its ability to move")
+s2=("consume organic matter, and respond to stimuli.")
+print("s1+s2",s1+s2)
+s3=("hello", 123 ,"good","456")
+print("s1[:2]",s1[-1])
+print("s1[:2]",s1[0::3])

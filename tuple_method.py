@@ -1,0 +1,5 @@
+t1=('prachi','vitaxi',236,'nency','sakshi','nency','nency','nency')
+t2=('are','is','was','were')
+print(t1)
+print(t1.count('nency'))
+print(t2.index('were'))

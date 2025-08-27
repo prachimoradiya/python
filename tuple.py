@@ -1,0 +1,8 @@
+t1=('prachi','vitaxi',236,'nency','sakshi')
+t2=('are','is','was','were')
+print(t1)
+print(t1[0])
+print(t1[2:4])
+print(t1[0:])
+print(t2*10)
+print(t1+t2)
